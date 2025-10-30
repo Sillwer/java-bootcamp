@@ -1,4 +1,4 @@
-# Day 06 — Java bootcamp
+# Java basics - Day 9
 
 ### JUnit/Mockito
 

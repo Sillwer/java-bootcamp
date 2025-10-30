@@ -1,4 +1,4 @@
-# Java basics - Day 02
+# Java basics - Day 3
 ### IO, Files
 
 *Takeways: Today you will learn how to use input/output in Java and implement programs to manipulate a file system.*

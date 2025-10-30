@@ -1,4 +1,4 @@
-# Java basics - Day 03
+# Java basics - Day 4
 ### Threads
 
 *Takeaways: Today you will learn how to use basic multithreading mechanisms in Java.*

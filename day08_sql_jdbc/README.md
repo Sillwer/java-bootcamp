@@ -1,4 +1,4 @@
-# Java basics - Day 05
+# Java basics - Day 8
 ### SQL/JDBC
 
 *Takeaways: Today you will use the key mechanisms to work with PostgreSQL DBMS via JDBC*
