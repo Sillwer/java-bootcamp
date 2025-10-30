@@ -1,0 +1,10 @@
+png, 89 50 4E 47 0D 0A 1A 0A
+ico, 00 00 01 00
+pdf, 25 50 44 46 2D
+gif, 47 49 46 38 39 61
+flac, 66 4C 61 43
+7z, 37 7A BC AF 27 1C
+XML, 3c 3f 78 6d 6c 20
+deb, 21 3C 61 72 63 68 3E
+rtf, 7B 5C 72 74 66 31
+class, CA FE BA BE

@@ -1,0 +1,13 @@
+./data-samples/ex00/1 formula (wrong extension).gif
+./data-samples/ex00/2 favicon.ico
+./data-samples/ex00/3 some pdf (without extension)
+./data-samples/ex00/4 disco cat
+./data-samples/ex00/5 flac sound
+./data-samples/ex00/6 archive
+./data-samples/ex00/7 some xml
+./data-samples/ex00/8 goto_1.0.0_amd64.deb
+./data-samples/ex00/9 Some rtf text
+./data-samples/ex00/HelloWorld
+./data-samples/ex00/input examples.txt
+./несуществующий файл
+42
